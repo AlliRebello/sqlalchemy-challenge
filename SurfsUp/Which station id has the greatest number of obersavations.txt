@@ -1,0 +1,2 @@
+Which station id has the greatest number of obersavations?
+USC00519281 has the greatest amount of obersavations with 2772
